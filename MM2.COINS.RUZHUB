@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjZjOWQxZmM2LTkxODktNDBjMS04ZGZiLTc3ZTdjZWVlMDYzZCIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/G8XJSECzow/0"))()
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "MM2Hub_Pinokio"
 screenGui.ResetOnSpawn = false

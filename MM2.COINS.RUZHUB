@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/HnkVEEz40il070Bc/raw"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Enchz4t1F0/0"))()
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "MM2Hub_Pinokio"
 screenGui.ResetOnSpawn = false
